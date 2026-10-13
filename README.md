@@ -2,7 +2,7 @@
 
 **Aspiring DevOps & Cloud Engineer | CI/CD | Kubernetes | AWS**
 
-I'm a 2026 Computer Science graduate who enjoys building automated delivery pipelines, containerized applications, and cloud infrastructure through hands-on projects. I'm focused on learning practical engineering skills and building reliable, secure deployment workflows.
+DevOps and Cloud enthusiast specializing in CI/CD pipelines, cloud infrastructure, container orchestration, and deployment automation. Passionate about implementing secure, efficient, and maintainable solutions using modern DevOps tools and cloud technologies, with a strong commitment to engineering excellence and continuous improvement.
 
 ### 🧰 Technologies I Work With
 
@@ -25,7 +25,7 @@ I'm a 2026 Computer Science graduate who enjoys building automated delivery pipe
 
 ### 🤝 Connect With Me
 
-- **GitHub:** [Explore my repositories](https://github.com/samkeerthana98)
+- **GitHub:** [Explore my repositories](https://github.com/samkeerthana98?tab=repositories)
 - **Email:** [amarasamkeerthana@gmail.com](mailto:amarasamkeerthana@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/samkeerthana-amara-11529328b/)
 ---
