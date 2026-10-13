@@ -12,6 +12,7 @@ DevOps and Cloud enthusiast specializing in CI/CD pipelines, cloud infrastructur
 
 | Project | What it demonstrates |
 |---|---|
+| [**RAG-Based Document Q&A Chatbot**](https://github.com/samkeerthana98/rag-document-qa-chatbot) | PDF question answering using LangChain, ChromaDB, HuggingFace embeddings, and a local Llama 3.2 LLM with source citations; Flask, Docker, GitHub Actions, and 329 automated tests |
 | [**DevSecOps & GitOps Platform**](https://github.com/samkeerthana98/cloud-native-devsecops-gitops-platform) | CI/CD automation, security scanning, Kubernetes, Helm, and Argo CD |
 | [**KubeSight**](https://github.com/samkeerthana98/kubesight-production-observability) | Kubernetes monitoring, Prometheus, Grafana, and application metrics |
 | [**Jenkins CI/CD Pipeline**](https://github.com/samkeerthana98/maven-project) | Automated builds, testing, Docker image publishing, and deployment approval |
