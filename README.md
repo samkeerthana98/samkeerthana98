@@ -1,6 +1,6 @@
 # Hi, I'm Amara Samkeerthana 👋
 
-**Aspiring DevOps & Cloud Engineer | CI/CD | Kubernetes | AWS**
+**Aspiring DevOps & Cloud Engineer | CI/CD | Kubernetes | Terraform | AWS**
 
 DevOps and Cloud enthusiast specializing in CI/CD pipelines, cloud infrastructure, container orchestration, and deployment automation. Passionate about implementing secure, efficient, and maintainable solutions using modern DevOps tools and cloud technologies, with a strong commitment to engineering excellence and continuous improvement.
 
