@@ -27,8 +27,7 @@ I'm a 2026 Computer Science graduate who enjoys building automated delivery pipe
 
 - **GitHub:** [Explore my repositories](https://github.com/samkeerthana98)
 - **Email:** [amarasamkeerthana@gmail.com](mailto:amarasamkeerthana@gmail.com)
-- **LinkedIn:** Add your LinkedIn profile URL here.
-
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/samkeerthana-amara-11529328b/)
 ---
 
 *I believe in learning by building, documenting what I learn, and improving with every project.*
