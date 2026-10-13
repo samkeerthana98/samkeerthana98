@@ -6,7 +6,7 @@ DevOps and Cloud enthusiast specializing in CI/CD pipelines, cloud infrastructur
 
 ### 🧰 Technologies I Work With
 
-`AWS` `Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions` `Helm` `Argo CD` `Trivy` `Prometheus` `Grafana` `Python` `Linux`
+`AWS` `Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions` `Helm` `GitOps` `Argo CD` `Trivy` `Prometheus` `Grafana` `Python` `Linux` 
 
 ### 🚀 Featured Projects
 
